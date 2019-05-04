@@ -14,6 +14,6 @@ public class Player : MonoBehaviour
 
     #endregion
 
-    [SerializeField] private Transform head;
+    public Transform head;
 
 }

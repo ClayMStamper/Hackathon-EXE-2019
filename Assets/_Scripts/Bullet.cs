@@ -11,7 +11,7 @@ public class Bullet : MonoBehaviour
     private Transform target;
     
     private void Start() {
-        target = Player.instance.transform;
+        target = Player.instance.head;
         AudioSource.PlayClipAtPoint(blasterSound, transform.position);
     }
 
@@ -19,16 +19,19 @@ public class Bullet : MonoBehaviour
     void Update()
     {
         transform.position = Vector3.Lerp(transform.position, target.position, Time.deltaTime * bulletSpeed);
-        transform.LookAt(target);
     }
 
     private void OnTriggerEnter(Collider other) {
+        
+        if (other.GetComponent<LightSaber>()) {
+            Flip();
+            print("defelected... headed for new target: " + target);
+        }
         if (other.transform.root.GetComponent<PlayerHealth>()) {
             other.transform.root.GetComponent<PlayerHealth>().OnHit(.3f);
             Destroy(gameObject);
-        } else if (other.GetComponent<LightSaber>()) {
-            Flip();
-        }
+        } 
+        
     }
 
     public void Flip() {

@@ -107,6 +107,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   bulletSpeed: 8
+  blasterSound: {fileID: 8300000, guid: 7687450ce4e3d674891e5f15f4cccd6f, type: 3}
   myDroid: {fileID: 0}
 --- !u!54 &1669077988
 Rigidbody:

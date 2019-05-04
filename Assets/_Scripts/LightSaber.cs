@@ -8,7 +8,8 @@ public class LightSaber : Weapon {
     
     private void OnTriggerEnter(Collider other) {
         ITakeDamage droid = other.GetComponent<ITakeDamage>();
-        droid?.OnHit(damage);
+        if (droid is EnemyHealth)
+            droid?.OnHit(damage);
     }
 
     public void OnHit(float damage) {

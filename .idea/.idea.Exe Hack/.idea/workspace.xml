@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="78ad7790-22cd-4f46-a51e-d1aebbcdc921" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Exe Hack/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Exe Hack/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Prefabs/Player.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Prefabs/Player.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Scripts/Bullet.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Scripts/Bullet.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Scripts/Player.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Scripts/Player.cs" afterDir="false" />
-    </list>
+    <list default="true" id="78ad7790-22cd-4f46-a51e-d1aebbcdc921" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,8 +86,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/_Scripts/Bullet.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="27" column="50" lean-forward="true" selection-start-line="27" selection-start-column="50" selection-end-line="27" selection-end-column="50" />
+            <state relative-caret-position="288">
+              <caret line="20" column="109" lean-forward="true" selection-start-line="20" selection-start-column="109" selection-end-line="20" selection-end-column="109" />
               <folding>
                 <marker date="1557001652481" expanded="false" signature="6:78" ph="..." />
                 <marker date="1557001652481" expanded="true" signature="115:1077" ph="{...}" />
@@ -330,12 +325,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1556985106318</updated>
-      <workItem from="1556985110877" duration="6589000" />
+      <workItem from="1556985110877" duration="6899000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6589000" />
+    <option name="totallyTimeSpent" value="6899000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -574,8 +569,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/_Scripts/Bullet.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="27" column="50" lean-forward="true" selection-start-line="27" selection-start-column="50" selection-end-line="27" selection-end-column="50" />
+        <state relative-caret-position="288">
+          <caret line="20" column="109" lean-forward="true" selection-start-line="20" selection-start-column="109" selection-end-line="20" selection-end-column="109" />
           <folding>
             <marker date="1557001652481" expanded="false" signature="6:78" ph="..." />
             <marker date="1557001652481" expanded="true" signature="115:1077" ph="{...}" />

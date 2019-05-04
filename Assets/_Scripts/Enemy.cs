@@ -7,7 +7,8 @@ public class Enemy : MonoBehaviour
 
     [SerializeField] private GameObject bullet;
     [SerializeField] private Transform barrel;
- 
+
+    public Transform body;
     
    public void Shoot() {
        GameObject shot = Instantiate(bullet, barrel.position, barrel.rotation);

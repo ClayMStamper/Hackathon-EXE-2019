@@ -9,7 +9,7 @@ public class Bullet : MonoBehaviour
 
     public Transform myDroid;
     private Transform target;
-    
+
     private void Start() {
         target = Player.instance.head;
         AudioSource.PlayClipAtPoint(blasterSound, transform.position);
@@ -34,6 +34,6 @@ public class Bullet : MonoBehaviour
     }
 
     public void Flip() {
-        target = myDroid;
+        target = myDroid.GetComponent<Enemy>().body;
     }
 }

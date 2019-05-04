@@ -1396,8 +1396,8 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 1, y: 2.099701, z: 1}
-  m_Center: {x: 0, y: 0.54985046, z: 0}
+  m_Size: {x: 1, y: 1.5698476, z: 1}
+  m_Center: {x: 0, y: 0.81477714, z: 0}
 --- !u!114 &1382721939935574661
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1442,6 +1442,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   bullet: {fileID: 4833084076330405278, guid: c4d63fe133772d34eb5ded1fe815da86, type: 3}
   barrel: {fileID: 1382721939549525901}
+  body: {fileID: 5879728295737859208}
 --- !u!1 &6928842549832039902
 GameObject:
   m_ObjectHideFlags: 0

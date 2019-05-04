@@ -6,13 +6,9 @@ public class Enemy : MonoBehaviour
 {
 
     [SerializeField] private GameObject bullet;
+    [SerializeField] private Transform barrel;
  
     
-    void Start()
-    {
-        
-    }
-
    public void Shoot()
     {
         Instantiate(bullet, transform.position, Quaternion.identity);

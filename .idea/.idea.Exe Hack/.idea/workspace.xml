@@ -4,61 +4,14 @@
     <list default="true" id="78ad7790-22cd-4f46-a51e-d1aebbcdc921" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Exe Hack/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Exe Hack/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Exe Hack/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Exe Hack/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Design/Black.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Design/Black.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Design/Models/Character/Character_Body_Diffuse.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Design/Models/Character/Character_Body_Diffuse.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Design/Models/Character/Character_Body_Gloss.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Design/Models/Character/Character_Body_Gloss.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Design/Models/Character/Character_Body_Normal.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Design/Models/Character/Character_Body_Normal.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Design/Models/Character/Character_Body_Opacity.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Design/Models/Character/Character_Body_Opacity.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Design/Models/Character/Character_Body_Specular.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Design/Models/Character/Character_Body_Specular.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Design/Models/Character/Character_Bottom_Diffuse.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Design/Models/Character/Character_Bottom_Diffuse.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Design/Models/Character/Character_Bottom_Gloss.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Design/Models/Character/Character_Bottom_Gloss.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Design/Models/Character/Character_Bottom_Normal.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Design/Models/Character/Character_Bottom_Normal.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Design/Models/Character/Character_Bottom_Opacity.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Design/Models/Character/Character_Bottom_Opacity.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Design/Models/Character/Character_Bottom_Specular.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Design/Models/Character/Character_Bottom_Specular.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Design/Models/Character/Character_Hair_Diffuse.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Design/Models/Character/Character_Hair_Diffuse.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Design/Models/Character/Character_Hair_Gloss.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Design/Models/Character/Character_Hair_Gloss.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Design/Models/Character/Character_Hair_Normal.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Design/Models/Character/Character_Hair_Normal.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Design/Models/Character/Character_Hair_Opacity.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Design/Models/Character/Character_Hair_Opacity.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Design/Models/Character/Character_Hair_Specular.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Design/Models/Character/Character_Hair_Specular.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Design/Models/Character/Character_Shoes_Diffuse.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Design/Models/Character/Character_Shoes_Diffuse.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Design/Models/Character/Character_Shoes_Gloss.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Design/Models/Character/Character_Shoes_Gloss.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Design/Models/Character/Character_Shoes_Normal.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Design/Models/Character/Character_Shoes_Normal.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Design/Models/Character/Character_Shoes_Opacity.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Design/Models/Character/Character_Shoes_Opacity.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Design/Models/Character/Character_Shoes_Specular.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Design/Models/Character/Character_Shoes_Specular.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Design/Models/Character/Character_Top_Diffuse.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Design/Models/Character/Character_Top_Diffuse.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Design/Models/Character/Character_Top_Gloss.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Design/Models/Character/Character_Top_Gloss.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Design/Models/Character/Character_Top_Normal.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Design/Models/Character/Character_Top_Normal.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Design/Models/Character/Character_Top_Opacity.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Design/Models/Character/Character_Top_Opacity.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Design/Models/Character/Character_Top_Specular.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Design/Models/Character/Character_Top_Specular.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Design/Red.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Design/Red.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Scripts/LightSaber.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Scripts/LightSaber.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Scripts/PlayerMove.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Scripts/PlayerMove.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProBuilderSettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProBuilderSettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Design/Materials/sci_fi_spaceship_access_cover_sci_fi_spaceship_access_cover.sbsar.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Design/Materials/sci_fi_spaceship_access_cover_sci_fi_spaceship_access_cover.sbsar.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Design/Models/DC-15s Blaster Rifle_By Jetstorm-477.obj.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Design/Models/DC-15s Blaster Rifle_By Jetstorm-477.obj.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Design/Models/Droid/BattleDroid.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Design/Models/Droid/BattleDroid.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Design/Models/Droid/Strafe.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Design/Models/Droid/Strafe.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Prefabs/BattleDroid.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Prefabs/BattleDroid.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Prefabs/Bullet.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Prefabs/Bullet.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Scripts/Enemy.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Scripts/Enemy.cs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -76,22 +29,22 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cs" value="731" />
+          <entry key="cs" value="764" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="C#" value="731" />
+          <entry key="C#" value="764" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="cs" value="8" />
+          <entry key="cs" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="C#" value="8" />
+          <entry key="C#" value="10" />
         </counts>
       </usages-collector>
     </session>
@@ -112,27 +65,14 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/_Scripts/ITakeDamage.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
-              <folding>
-                <marker date="1556985316058" expanded="false" signature="6:78" ph="..." />
-                <marker date="1556985316058" expanded="true" signature="109:142" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/_Scripts/Enemy.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="176">
+              <caret line="13" column="40" lean-forward="true" selection-start-line="13" selection-start-column="40" selection-end-line="13" selection-end-column="40" />
               <folding>
-                <marker date="1556985018326" expanded="false" signature="6:78" ph="..." />
-                <marker date="1556985018326" expanded="true" signature="114:288" ph="{...}" />
-                <marker date="1556985018326" expanded="true" signature="186:207" ph="{...}" />
-                <marker date="1556985018326" expanded="true" signature="265:286" ph="{...}" />
+                <marker date="1556996220287" expanded="false" signature="6:78" ph="..." />
+                <marker date="1556996220287" expanded="true" signature="114:340" ph="{...}" />
+                <marker date="1556996220287" expanded="true" signature="242:324" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -166,16 +106,48 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/_Scripts/LightSaber.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="224">
-              <caret line="16" column="4" lean-forward="true" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
+              <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
               <folding>
                 <marker date="1556993505116" expanded="false" signature="6:78" ph="..." />
                 <marker date="1556993505116" expanded="true" signature="113:364" ph="{...}" />
                 <marker date="1556993505116" expanded="true" signature="203:303" ph="{...}" />
                 <marker date="1556993505116" expanded="true" signature="341:357" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/_Scripts/EnemyMove.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="460">
+              <caret line="40" column="5" lean-forward="true" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
+              <folding>
+                <marker date="1556995805214" expanded="false" signature="6:100" ph="..." />
+                <marker date="1556995805214" expanded="true" signature="140:1410" ph="{...}" />
+                <marker date="1556995805214" expanded="true" signature="506:571" ph="{...}" />
+                <marker date="1556995805214" expanded="true" signature="629:855" ph="{...}" />
+                <marker date="1556995805214" expanded="true" signature="725:846" ph="{...}" />
+                <marker date="1556995805214" expanded="true" signature="892:1388" ph="{...}" />
+                <marker date="1556995805214" expanded="true" signature="1091:1191" ph="{...}" />
+                <marker date="1556995805214" expanded="true" signature="1210:1258" ph="/* set x rotation ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/_Scripts/Bullet.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1556995805210" expanded="false" signature="6:78" ph="..." />
+                <marker date="1556995805210" expanded="true" signature="115:323" ph="{...}" />
+                <marker date="1556995805210" expanded="true" signature="232:321" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -239,6 +211,8 @@
     <setting file="file://$PROJECT_DIR$/Assets/_Scripts/LightSaber.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/_Scripts/ITakeDamage.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/_Scripts/Player.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/EnemyMove.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/Bullet.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/_Scripts/Enemy.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/_Scripts/PlayerAttack.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/_Scripts/PlayerMove.cs" root0="FORCE_HIGHLIGHTING" />
@@ -257,6 +231,7 @@
         <option value="$PROJECT_DIR$/Assets/_Scripts/PlayerAttack.cs" />
         <option value="$PROJECT_DIR$/Assets/_Scripts/PlayerMove.cs" />
         <option value="$PROJECT_DIR$/Assets/_Scripts/LightSaber.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/Enemy.cs" />
       </list>
     </option>
   </component>
@@ -281,6 +256,20 @@
       </pane>
       <pane id="FileSystemExplorer" />
       <pane id="UnityExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+              <item name="_Scripts" type="1045f7f1:UnityExplorerNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
         <option name="show-hidden-items" value="false" />
       </pane>
     </panes>
@@ -328,12 +317,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1556985106318</updated>
-      <workItem from="1556985110877" duration="2352000" />
+      <workItem from="1556985110877" duration="3036000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2352000" />
+    <option name="totallyTimeSpent" value="3036000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -399,18 +388,6 @@
           <folding>
             <marker date="1556985316058" expanded="false" signature="6:78" ph="..." />
             <marker date="1556985316058" expanded="true" signature="109:142" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/_Scripts/Enemy.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <marker date="1556985018326" expanded="false" signature="6:78" ph="..." />
-            <marker date="1556985018326" expanded="true" signature="114:288" ph="{...}" />
-            <marker date="1556985018326" expanded="true" signature="186:207" ph="{...}" />
-            <marker date="1556985018326" expanded="true" signature="265:286" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -496,12 +473,52 @@
     <entry file="file://$PROJECT_DIR$/Assets/_Scripts/LightSaber.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="224">
-          <caret line="16" column="4" lean-forward="true" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
+          <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
           <folding>
             <marker date="1556993505116" expanded="false" signature="6:78" ph="..." />
             <marker date="1556993505116" expanded="true" signature="113:364" ph="{...}" />
             <marker date="1556993505116" expanded="true" signature="203:303" ph="{...}" />
             <marker date="1556993505116" expanded="true" signature="341:357" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/_Scripts/Bullet.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1556995805210" expanded="false" signature="6:78" ph="..." />
+            <marker date="1556995805210" expanded="true" signature="115:323" ph="{...}" />
+            <marker date="1556995805210" expanded="true" signature="232:321" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/_Scripts/Enemy.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="13" column="40" lean-forward="true" selection-start-line="13" selection-start-column="40" selection-end-line="13" selection-end-column="40" />
+          <folding>
+            <marker date="1556996220287" expanded="false" signature="6:78" ph="..." />
+            <marker date="1556996220287" expanded="true" signature="114:340" ph="{...}" />
+            <marker date="1556996220287" expanded="true" signature="242:324" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/_Scripts/EnemyMove.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="40" column="5" lean-forward="true" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
+          <folding>
+            <marker date="1556995805214" expanded="false" signature="6:100" ph="..." />
+            <marker date="1556995805214" expanded="true" signature="140:1410" ph="{...}" />
+            <marker date="1556995805214" expanded="true" signature="506:571" ph="{...}" />
+            <marker date="1556995805214" expanded="true" signature="629:855" ph="{...}" />
+            <marker date="1556995805214" expanded="true" signature="725:846" ph="{...}" />
+            <marker date="1556995805214" expanded="true" signature="892:1388" ph="{...}" />
+            <marker date="1556995805214" expanded="true" signature="1091:1191" ph="{...}" />
+            <marker date="1556995805214" expanded="true" signature="1210:1258" ph="/* set x rotation ... */" />
           </folding>
         </state>
       </provider>

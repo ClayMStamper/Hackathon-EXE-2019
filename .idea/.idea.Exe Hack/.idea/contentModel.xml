@@ -4,12 +4,15 @@
     <e p="$USER_HOME$/Library/Caches/Rider2018.2/extResources" t="IncludeRecursive" />
     <e p="$USER_HOME$/Library/Caches/Rider2018.2/resharper-host/local/Transient/ReSharperHost/v182/SolutionCaches/_Exe Hack.-1093236745.00" t="ExcludeRecursive" />
     <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
         <e p="_Scripts" t="Include">
+          <e p="Bullet.cs" t="Include" />
           <e p="Enemy.cs" t="Include" />
           <e p="EnemyHealth.cs" t="Include" />
           <e p="EnemyMove.cs" t="Include" />
+          <e p="FlipNormals.cs" t="Include" />
           <e p="IDealDamage.cs" t="Include" />
           <e p="ITakeDamage.cs" t="Include" />
           <e p="LightSaber.cs" t="Include" />
@@ -18,6 +21,28 @@
           <e p="PlayerHealth.cs" t="Include" />
           <e p="PlayerMove.cs" t="Include" />
           <e p="Weapon.cs" t="Include" />
+        </e>
+        <e p="Allegorithmic" t="Include">
+          <e p="Plugins" t="Include">
+            <e p="engine_build_info.txt" t="Include" />
+            <e p="EULA.txt" t="Include" />
+            <e p="Substance" t="Include">
+              <e p="Livelink" t="Include">
+                <e p="Editor" t="Include">
+                  <e p="Plugins" t="Include">
+                    <e p="SimpleJSON.cs" t="Include" />
+                  </e>
+                  <e p="Scripts" t="Include">
+                    <e p="ItemSelectorWindow.cs" t="Include" />
+                    <e p="MaterialPropertiesManipulation.cs" t="Include" />
+                    <e p="MaterialsManipulation.cs" t="Include" />
+                    <e p="MeshLinkEditor.cs" t="Include" />
+                    <e p="ShadersInfos.cs" t="Include" />
+                  </e>
+                </e>
+              </e>
+            </e>
+          </e>
         </e>
         <e p="VolumetricLines" t="Include">
           <e p="ExampleScenes" t="Include">

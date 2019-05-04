@@ -1340,7 +1340,6 @@ GameObject:
   - component: {fileID: 6218026917700205480}
   - component: {fileID: 4089511763752703698}
   - component: {fileID: 1382721939935574663}
-  - component: {fileID: 1382721939935574662}
   - component: {fileID: 1382721939935574661}
   m_Layer: 0
   m_Name: Droid
@@ -1397,21 +1396,6 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 1, y: 2.099701, z: 1}
   m_Center: {x: 0, y: 0.54985046, z: 0}
---- !u!114 &1382721939935574662
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6922462886065375675}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6faef6236dad94e3a9291877736a1d8f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  moveSpeed: 3
-  attackRange: 2
-  fireRate: 1
 --- !u!114 &1382721939935574661
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1781,13 +1765,13 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -5975033157549033438, guid: 398dc85baaf7c4b93b2d42d59ce44755,
         type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -0.584
+      propertyPath: m_LocalPosition.y
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: -5975033157549033438, guid: 398dc85baaf7c4b93b2d42d59ce44755,
         type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -0
+      propertyPath: m_LocalPosition.z
+      value: -0.584
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: 398dc85baaf7c4b93b2d42d59ce44755,
         type: 3}

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\elija\.Rider2019.1\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\elija\.Rider2019.1\system\resharper-host\local\Transient\ReSharperHost\v191\SolutionCaches\_Hackathon-EXE-2019.-354383549.00" t="ExcludeRecursive" />
+    <e p="C:\Users\elija\Projects\Unity\Hackathon-EXE-2019" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="_Prefabs" t="Include">
+          <e p="NewBehaviourScript.cs" t="Include" />
+        </e>
+        <e p="_Scripts" t="Include">
+          <e p="Bullet.cs" t="Include" />
+          <e p="Enemy.cs" t="Include" />
+          <e p="EnemyHealth.cs" t="Include" />
+          <e p="EnemyMove.cs" t="Include" />
+          <e p="FlipNormals.cs" t="Include" />
+          <e p="IDealDamage.cs" t="Include" />
+          <e p="ITakeDamage.cs" t="Include" />
+          <e p="LightSaber.cs" t="Include" />
+          <e p="Player.cs" t="Include" />
+          <e p="PlayerAttack.cs" t="Include" />
+          <e p="PlayerHealth.cs" t="Include" />
+          <e p="PlayerMove.cs" t="Include" />
+          <e p="Weapon.cs" t="Include" />
+        </e>
+        <e p="Allegorithmic" t="Include">
+          <e p="Plugins" t="Include">
+            <e p="engine_build_info.txt" t="Include" />
+            <e p="EULA.txt" t="Include" />
+            <e p="Substance" t="Include">
+              <e p="Livelink" t="Include">
+                <e p="Editor" t="Include">
+                  <e p="Plugins" t="Include">
+                    <e p="SimpleJSON.cs" t="Include" />
+                  </e>
+                  <e p="Scripts" t="Include">
+                    <e p="ItemSelectorWindow.cs" t="Include" />
+                    <e p="MaterialPropertiesManipulation.cs" t="Include" />
+                    <e p="MaterialsManipulation.cs" t="Include" />
+                    <e p="MeshLinkEditor.cs" t="Include" />
+                    <e p="ShadersInfos.cs" t="Include" />
+                  </e>
+                </e>
+              </e>
+            </e>
+          </e>
+        </e>
+        <e p="VolumetricLines" t="Include">
+          <e p="ExampleScenes" t="Include">
+            <e p="ExampleScripts" t="Include">
+              <e p="CannonBehavior.cs" t="Include" />
+              <e p="CreateSinShapedLineStrip.cs" t="Include" />
+              <e p="ShotBehavior.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Scripts" t="Include">
+            <e p="Utils" t="Include">
+              <e p="TransformExtensionMethods.cs" t="Include" />
+            </e>
+            <e p="VolumetricLineBehavior.cs" t="Include" />
+            <e p="VolumetricLineSettings.cs" t="Include" />
+            <e p="VolumetricLineStripBehavior.cs" t="Include" />
+            <e p="VolumetricLineVertexData.cs" t="Include" />
+            <e p="VolumetricMultiLineBehavior.cs" t="Include" />
+          </e>
+          <e p="Shaders" t="Include">
+            <e p="_SimpleShader.cginc" t="Include" />
+            <e p="_StripShader.cginc" t="Include" />
+            <e p="Additive.shader" t="Include" />
+            <e p="AlphaBlended.shader" t="Include" />
+            <e p="Fast-Additive.shader" t="Include" />
+            <e p="Fast-AlphaBlended.shader" t="Include" />
+            <e p="Strip-Additive.shader" t="Include" />
+            <e p="Strip-AlphaBlended.shader" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Hackathon-EXE-2019.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

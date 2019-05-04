@@ -1,12 +1,12 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Serialization;
 
 public class PlayerAttack : MonoBehaviour {
     private Animator anim;
 
-    public Transform sabre;
-    public Collider col;
+    [FormerlySerializedAs("col")] public Collider sabreCol;
     
     private void Start() {
         anim = GetComponent<Animator>();

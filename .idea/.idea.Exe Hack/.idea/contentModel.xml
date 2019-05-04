@@ -46,6 +46,7 @@
             </e>
           </e>
         </e>
+        <e p="AttackBehaviour.cs" t="Include" />
         <e p="Fx Explosion Pack" t="Include">
           <e p="Script" t="Include">
             <e p="csDemoScenceControl.cs" t="Include" />

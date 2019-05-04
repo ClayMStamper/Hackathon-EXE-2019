@@ -131,10 +131,10 @@ BoxCollider:
   m_GameObject: {fileID: 3140342896265834210}
   m_Material: {fileID: 0}
   m_IsTrigger: 1
-  m_Enabled: 1
+  m_Enabled: 0
   serializedVersion: 2
-  m_Size: {x: 0.09636001, y: 0.108056016, z: 1.6591712}
-  m_Center: {x: -0.0000009280499, y: 0.00000025696465, z: 0.7009944}
+  m_Size: {x: 0.37761068, y: 0.38014418, z: 1.6591715}
+  m_Center: {x: 0.023123536, y: -0.001001637, z: 0.7009952}
 --- !u!114 &7719731536473591020
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -226,8 +226,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c1848b6032c4b48b4ba59f335ce5beb1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sabre: {fileID: 2148187203292781809}
-  col: {fileID: 3155360983953256178}
+  sabreCol: {fileID: 3155360983953256178}
 --- !u!114 &6392103411254440451
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -289,8 +288,8 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 2.265562, y: 3.9099808, z: 2.424718}
-  m_Center: {x: -2.1099968, y: 1.4549904, z: -0.33964944}
+  m_Size: {x: 3.1455674, y: 3.9099808, z: 2.424718}
+  m_Center: {x: -1.6699941, y: 1.4549904, z: -0.33964944}
 --- !u!1 &6392103412560993584
 GameObject:
   m_ObjectHideFlags: 0
@@ -447,7 +446,7 @@ GameObject:
   - component: {fileID: 3604401711177251030}
   - component: {fileID: 5043855621327155787}
   - component: {fileID: 6425622458547092523}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Body
   m_TagString: Untagged
   m_Icon: {fileID: 0}

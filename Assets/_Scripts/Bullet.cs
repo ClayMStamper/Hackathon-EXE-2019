@@ -24,6 +24,8 @@ public class Bullet : MonoBehaviour
         if (other.transform.root.GetComponent<PlayerHealth>()) {
             other.transform.root.GetComponent<PlayerHealth>().OnHit(.3f);
             Destroy(gameObject);
+        } else if (other.GetComponent<LightSaber>()) {
+            Flip();
         }
     }
 

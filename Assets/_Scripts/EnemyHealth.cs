@@ -11,7 +11,7 @@ public class EnemyHealth : MonoBehaviour, ITakeDamage
     public void OnHit(float damage)
     {
         health -= damage;
-        if (health <= 0)
+        if (health <= 1)
         {
             GetComponent<Animator>().Play("Death");
             Instantiate(DestroyVFX, transform.position, Quaternion.identity);

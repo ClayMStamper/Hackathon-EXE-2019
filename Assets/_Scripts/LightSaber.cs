@@ -11,9 +11,6 @@ public class LightSaber : Weapon {
         if (droid is EnemyHealth)
             droid?.OnHit(damage);
         
-        if (other.GetComponent<Bullet>())
-            Destroy(other.gameObject);
-        
     }
 
     public void OnHit(float damage) {

@@ -1,0 +1,107 @@
+fileFormatVersion: 2
+guid: 0db6fed0c76f84a9f9b4215a63872def
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 232528478, guid: 43a8bbf65be290d44ba52b94476242b9, type: 3}
+  version: 17
+  mGraphInstanceData:
+  - graphLabel: Space Station Cargo Rack
+    prototypeName: Space Station Cargo Rack
+    graphDescIndex: 0
+    generateAllOutputs: 0
+    generateMipMaps: 1
+    preset: " <sbspreset pkgurl=\"pkg://space_station_cargo_rack\" label=\"\" >\n
+      </sbspreset>\n"
+    shaderName: Standard
+    outputNames: baseColor,normal,metallic,height,ambientOcclusion
+    texturePackingList:
+    - outputName: diffuse
+      alphaSource: diffuse
+    - outputName: baseColor
+      alphaSource: baseColor
+    - outputName: normal
+      alphaSource: normal
+    - outputName: specular
+      alphaSource: specular
+    - outputName: glossiness
+      alphaSource: glossiness
+    - outputName: roughness
+      alphaSource: roughness
+    - outputName: metallic
+      alphaSource: smoothness
+    - outputName: height
+      alphaSource: height
+    - outputName: ambientOcclusion
+      alphaSource: ambientOcclusion
+    textureParameters:
+    - textureName: Space Station Cargo Rack - glossiness
+      wrapMode: 0
+      filterMode: 1
+      aniso: 1
+    - textureName: Space Station Cargo Rack - diffuse
+      wrapMode: 0
+      filterMode: 1
+      aniso: 1
+    - textureName: Space Station Cargo Rack - baseColor
+      wrapMode: 0
+      filterMode: 1
+      aniso: 1
+    - textureName: Space Station Cargo Rack - normal
+      wrapMode: 0
+      filterMode: 1
+      aniso: 1
+    - textureName: Space Station Cargo Rack - specular
+      wrapMode: 0
+      filterMode: 1
+      aniso: 1
+    - textureName: Space Station Cargo Rack - roughness
+      wrapMode: 0
+      filterMode: 1
+      aniso: 1
+    - textureName: Space Station Cargo Rack - metallic
+      wrapMode: 0
+      filterMode: 1
+      aniso: 1
+    - textureName: Space Station Cargo Rack - height
+      wrapMode: 0
+      filterMode: 1
+      aniso: 1
+    - textureName: Space Station Cargo Rack - ambientOcclusion
+      wrapMode: 0
+      filterMode: 1
+      aniso: 1
+    colorSpaceList:
+    - outputName: diffuse
+      bLinear: 0
+    - outputName: baseColor
+      bLinear: 0
+    - outputName: normal
+      bLinear: 1
+    - outputName: specular
+      bLinear: 0
+    - outputName: glossiness
+      bLinear: 1
+    - outputName: roughness
+      bLinear: 1
+    - outputName: metallic
+      bLinear: 1
+    - outputName: height
+      bLinear: 1
+    - outputName: ambientOcclusion
+      bLinear: 1
+    inputTextureMap: []
+    targetSettingList:
+    - label: 
+      bLockRatio: 1
+      textureWidth: 256
+      textureHeight: 256
+      textureFormat: 0
+      bGenerateOnLoad: 1
+    material: {fileID: 1707542929618850754, guid: 0db6fed0c76f84a9f9b4215a63872def,
+      type: 3}
+    generatedTextures: []

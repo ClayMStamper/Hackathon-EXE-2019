@@ -1,0 +1,106 @@
+fileFormatVersion: 2
+guid: 94d7903f371a8442bb192d579abf49bc
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 232528478, guid: 43a8bbf65be290d44ba52b94476242b9, type: 3}
+  version: 17
+  mGraphInstanceData:
+  - graphLabel: Thermal Insulation Panel
+    prototypeName: Thermal Insulation Panel
+    graphDescIndex: 0
+    generateAllOutputs: 0
+    generateMipMaps: 1
+    preset: " <sbspreset pkgurl=\"pkg://thermal_insulation_panel\" label=\"\" >\n
+      </sbspreset>\n"
+    shaderName: Standard
+    outputNames: baseColor,normal,metallic,height,ambientOcclusion
+    texturePackingList:
+    - outputName: diffuse
+      alphaSource: diffuse
+    - outputName: baseColor
+      alphaSource: baseColor
+    - outputName: normal
+      alphaSource: normal
+    - outputName: specular
+      alphaSource: specular
+    - outputName: glossiness
+      alphaSource: glossiness
+    - outputName: roughness
+      alphaSource: roughness
+    - outputName: metallic
+      alphaSource: smoothness
+    - outputName: height
+      alphaSource: height
+    - outputName: ambientOcclusion
+      alphaSource: ambientOcclusion
+    textureParameters:
+    - textureName: Thermal Insulation Panel - glossiness
+      wrapMode: 0
+      filterMode: 1
+      aniso: 1
+    - textureName: Thermal Insulation Panel - diffuse
+      wrapMode: 0
+      filterMode: 1
+      aniso: 1
+    - textureName: Thermal Insulation Panel - baseColor
+      wrapMode: 0
+      filterMode: 1
+      aniso: 1
+    - textureName: Thermal Insulation Panel - normal
+      wrapMode: 0
+      filterMode: 1
+      aniso: 1
+    - textureName: Thermal Insulation Panel - specular
+      wrapMode: 0
+      filterMode: 1
+      aniso: 1
+    - textureName: Thermal Insulation Panel - roughness
+      wrapMode: 0
+      filterMode: 1
+      aniso: 1
+    - textureName: Thermal Insulation Panel - metallic
+      wrapMode: 0
+      filterMode: 1
+      aniso: 1
+    - textureName: Thermal Insulation Panel - height
+      wrapMode: 0
+      filterMode: 1
+      aniso: 1
+    - textureName: Thermal Insulation Panel - ambientOcclusion
+      wrapMode: 0
+      filterMode: 1
+      aniso: 1
+    colorSpaceList:
+    - outputName: diffuse
+      bLinear: 0
+    - outputName: baseColor
+      bLinear: 0
+    - outputName: normal
+      bLinear: 1
+    - outputName: specular
+      bLinear: 0
+    - outputName: glossiness
+      bLinear: 1
+    - outputName: roughness
+      bLinear: 1
+    - outputName: metallic
+      bLinear: 1
+    - outputName: height
+      bLinear: 1
+    - outputName: ambientOcclusion
+      bLinear: 1
+    inputTextureMap: []
+    targetSettingList:
+    - label: 
+      bLockRatio: 1
+      textureWidth: 256
+      textureHeight: 256
+      textureFormat: 0
+      bGenerateOnLoad: 1
+    material: {instanceID: 0}
+    generatedTextures: []

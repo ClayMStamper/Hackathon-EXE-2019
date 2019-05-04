@@ -1,0 +1,107 @@
+fileFormatVersion: 2
+guid: 03a684295646e4e789dcd463b9c9e38a
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 232528478, guid: 43a8bbf65be290d44ba52b94476242b9, type: 3}
+  version: 17
+  mGraphInstanceData:
+  - graphLabel: Sci Fi Storage Unit Wall
+    prototypeName: Sci Fi Storage Unit Wall
+    graphDescIndex: 0
+    generateAllOutputs: 0
+    generateMipMaps: 1
+    preset: " <sbspreset pkgurl=\"pkg://sci_fi_storage_unit_wall\" label=\"\" >\n
+      </sbspreset>\n"
+    shaderName: Standard
+    outputNames: baseColor,normal,metallic,height,ambientOcclusion
+    texturePackingList:
+    - outputName: diffuse
+      alphaSource: diffuse
+    - outputName: baseColor
+      alphaSource: baseColor
+    - outputName: normal
+      alphaSource: normal
+    - outputName: specular
+      alphaSource: specular
+    - outputName: glossiness
+      alphaSource: glossiness
+    - outputName: roughness
+      alphaSource: roughness
+    - outputName: metallic
+      alphaSource: smoothness
+    - outputName: height
+      alphaSource: height
+    - outputName: ambientOcclusion
+      alphaSource: ambientOcclusion
+    textureParameters:
+    - textureName: Sci Fi Storage Unit Wall - glossiness
+      wrapMode: 0
+      filterMode: 1
+      aniso: 1
+    - textureName: Sci Fi Storage Unit Wall - diffuse
+      wrapMode: 0
+      filterMode: 1
+      aniso: 1
+    - textureName: Sci Fi Storage Unit Wall - baseColor
+      wrapMode: 0
+      filterMode: 1
+      aniso: 1
+    - textureName: Sci Fi Storage Unit Wall - normal
+      wrapMode: 0
+      filterMode: 1
+      aniso: 1
+    - textureName: Sci Fi Storage Unit Wall - specular
+      wrapMode: 0
+      filterMode: 1
+      aniso: 1
+    - textureName: Sci Fi Storage Unit Wall - roughness
+      wrapMode: 0
+      filterMode: 1
+      aniso: 1
+    - textureName: Sci Fi Storage Unit Wall - metallic
+      wrapMode: 0
+      filterMode: 1
+      aniso: 1
+    - textureName: Sci Fi Storage Unit Wall - height
+      wrapMode: 0
+      filterMode: 1
+      aniso: 1
+    - textureName: Sci Fi Storage Unit Wall - ambientOcclusion
+      wrapMode: 0
+      filterMode: 1
+      aniso: 1
+    colorSpaceList:
+    - outputName: diffuse
+      bLinear: 0
+    - outputName: baseColor
+      bLinear: 0
+    - outputName: normal
+      bLinear: 1
+    - outputName: specular
+      bLinear: 0
+    - outputName: glossiness
+      bLinear: 1
+    - outputName: roughness
+      bLinear: 1
+    - outputName: metallic
+      bLinear: 1
+    - outputName: height
+      bLinear: 1
+    - outputName: ambientOcclusion
+      bLinear: 1
+    inputTextureMap: []
+    targetSettingList:
+    - label: 
+      bLockRatio: 1
+      textureWidth: 256
+      textureHeight: 256
+      textureFormat: 0
+      bGenerateOnLoad: 1
+    material: {fileID: -3682039499008682431, guid: 03a684295646e4e789dcd463b9c9e38a,
+      type: 3}
+    generatedTextures: []

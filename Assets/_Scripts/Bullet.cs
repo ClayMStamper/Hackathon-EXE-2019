@@ -20,6 +20,13 @@ public class Bullet : MonoBehaviour
         transform.LookAt(target);
     }
 
+    private void OnTriggerEnter(Collider other) {
+        if (other.transform.root.GetComponent<PlayerHealth>()) {
+            other.transform.root.GetComponent<PlayerHealth>().OnHit(.3f);
+            Destroy(gameObject);
+        }
+    }
+
     public void Flip() {
         target = myDroid;
     }

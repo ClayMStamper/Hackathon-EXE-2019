@@ -2,17 +2,17 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class LightSaber : MonoBehaviour
-{
-    // Start is called before the first frame update
-    void Start()
-    {
-        
+public class LightSaber : Weapon {
+    
+    private float damage = 1;
+    
+    private void OnTriggerEnter(Collider other) {
+        ITakeDamage droid = other.GetComponent<ITakeDamage>();
+        droid?.OnHit(damage);
     }
 
-    // Update is called once per frame
-    void Update()
-    {
+    public void OnHit(float damage) {
         
     }
+    
 }

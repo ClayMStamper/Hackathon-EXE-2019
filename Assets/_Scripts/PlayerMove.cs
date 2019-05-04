@@ -8,8 +8,7 @@ public class PlayerMove : MonoBehaviour
     public float lookSpeed = 50;
     public float moveSpeed = 20;
 
-    [SerializeField] 
-    private Transform head, body;
+    [SerializeField] private Transform head;
 
     private void Start()
     {
@@ -29,16 +28,16 @@ public class PlayerMove : MonoBehaviour
     {
 		
         if (Input.GetKey(KeyCode.W))
-            transform.Translate(Vector3.forward * Time.deltaTime * moveSpeed);
-		
-        if (Input.GetKey(KeyCode.A))
-            transform.Translate(Vector3.left * Time.deltaTime * moveSpeed);
-		
-        if (Input.GetKey(KeyCode.D))
             transform.Translate(Vector3.right * Time.deltaTime * moveSpeed);
 		
-        if (Input.GetKey(KeyCode.S))
+        if (Input.GetKey(KeyCode.A))
+            transform.Translate(Vector3.forward * Time.deltaTime * moveSpeed);
+		
+        if (Input.GetKey(KeyCode.D))
             transform.Translate(Vector3.back * Time.deltaTime * moveSpeed);
+		
+        if (Input.GetKey(KeyCode.S))
+            transform.Translate(Vector3.left * Time.deltaTime * moveSpeed);
 		
     }
 	

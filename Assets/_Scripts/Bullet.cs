@@ -5,12 +5,14 @@ using UnityEngine;
 public class Bullet : MonoBehaviour
 {
     [SerializeField] private float bulletSpeed = 2f;
+    [SerializeField] private AudioClip blasterSound;
 
     public Transform myDroid;
     private Transform target;
     
     private void Start() {
         target = Player.instance.transform;
+        AudioSource.PlayClipAtPoint(blasterSound, transform.position);
     }
 
     // Update is called once per frame

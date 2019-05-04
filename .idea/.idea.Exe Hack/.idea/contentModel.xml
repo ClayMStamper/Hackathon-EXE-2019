@@ -9,9 +9,11 @@
       <e p="Assets" t="Include">
         <e p="_Scripts" t="Include">
           <e p="Bullet.cs" t="Include" />
+          <e p="DroidMove.cs" t="Include" />
           <e p="Enemy.cs" t="Include" />
           <e p="EnemyHealth.cs" t="Include" />
           <e p="EnemyMove.cs" t="Include" />
+          <e p="EnemySpawner.cs" t="Include" />
           <e p="FlipNormals.cs" t="Include" />
           <e p="IDealDamage.cs" t="Include" />
           <e p="ITakeDamage.cs" t="Include" />

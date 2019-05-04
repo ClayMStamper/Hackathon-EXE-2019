@@ -9,10 +9,11 @@ public class Enemy : MonoBehaviour
     [SerializeField] private Transform barrel;
  
     
-   public void Shoot()
-    {
-        Instantiate(bullet, transform.position, Quaternion.identity);
-    }
+   public void Shoot() {
+       GameObject shot = Instantiate(bullet, barrel.position, barrel.rotation);
+       shot.GetComponent<Bullet>().myDroid = transform;
+       Destroy(shot, 10);
+   }
     
    
     

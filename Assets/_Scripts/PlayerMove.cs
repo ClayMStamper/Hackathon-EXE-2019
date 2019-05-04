@@ -8,7 +8,7 @@ public class PlayerMove : MonoBehaviour
     public float lookSpeed = 50;
     public float moveSpeed = 20;
 
-    [SerializeField] private Transform head;
+    public Transform head;
 
     private void Start()
     {

@@ -14,5 +14,5 @@ public class LightSaber : Weapon {
     public void OnHit(float damage) {
         
     }
-    
+
 }

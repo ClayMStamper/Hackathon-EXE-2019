@@ -436,6 +436,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 6392103411254440448}
     m_Modifications:
+    - target: {fileID: -927199367670048503, guid: 36200b8a67f9c4f568daeed9a61e62b2,
+        type: 3}
+      propertyPath: m_Name
+      value: Lightsaber
+      objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: 36200b8a67f9c4f568daeed9a61e62b2,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -505,11 +510,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalScale.z
       value: 2.8561
-      objectReference: {fileID: 0}
-    - target: {fileID: -927199367670048503, guid: 36200b8a67f9c4f568daeed9a61e62b2,
-        type: 3}
-      propertyPath: m_Name
-      value: Lightsaber
       objectReference: {fileID: 0}
     - target: {fileID: -1504981713932161579, guid: 36200b8a67f9c4f568daeed9a61e62b2,
         type: 3}

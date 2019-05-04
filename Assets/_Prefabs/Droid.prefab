@@ -272,7 +272,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1382721939549525902}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0.081, z: 1.398}
+  m_LocalPosition: {x: 0.42, y: -0.615, z: 1.039}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 6218026919458372883}
@@ -1342,6 +1342,7 @@ GameObject:
   - component: {fileID: 1382721939935574663}
   - component: {fileID: 1382721939935574661}
   - component: {fileID: 8296172668571751473}
+  - component: {fileID: 8296172668571751474}
   m_Layer: 0
   m_Name: Droid
   m_TagString: Untagged
@@ -1404,7 +1405,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6922462886065375675}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6faef6236dad94e3a9291877736a1d8f, type: 3}
   m_Name: 
@@ -1424,6 +1425,20 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 32776e276d06842119c360eb43a4b332, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!114 &8296172668571751474
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6922462886065375675}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5b56a3f58b374a55b7c2bbe740e6bd7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  bullet: {fileID: 4833084076330405278, guid: c4d63fe133772d34eb5ded1fe815da86, type: 3}
+  barrel: {fileID: 1382721939549525901}
 --- !u!1 &6928842549832039902
 GameObject:
   m_ObjectHideFlags: 0

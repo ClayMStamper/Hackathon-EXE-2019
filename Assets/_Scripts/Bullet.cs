@@ -5,10 +5,22 @@ using UnityEngine;
 public class Bullet : MonoBehaviour
 {
     [SerializeField] private float bulletSpeed = 2f;
+
+    public Transform myDroid;
+    private Transform target;
     
+    private void Start() {
+        target = Player.instance.transform;
+    }
+
     // Update is called once per frame
     void Update()
     {
-        transform.Translate(Vector3.forward * Time.deltaTime * bulletSpeed);
+        transform.position = Vector3.Lerp(transform.position, target.position, Time.deltaTime * bulletSpeed);
+        transform.LookAt(target);
+    }
+
+    public void Flip() {
+        target = myDroid;
     }
 }

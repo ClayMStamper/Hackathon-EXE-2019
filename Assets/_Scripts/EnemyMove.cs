@@ -30,10 +30,9 @@ public class EnemyMove : MonoBehaviour
         {
             nextFire = Time.time + fireRate;
             GetComponent<Enemy>().Shoot();
+            GetComponent<Animator>().SetBool("Attacking", true);
             
         }
-
-
 
     }
 

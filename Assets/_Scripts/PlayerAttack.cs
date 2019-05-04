@@ -13,8 +13,13 @@ public class PlayerAttack : MonoBehaviour {
     }
 
     private void Update() {
-        if (Input.GetMouseButton(0)) {
+        if (Input.GetMouseButtonDown(0)) {
             anim.SetTrigger("Attack");
+        } else if (Input.GetMouseButton(1)) {
+            anim.SetBool("Blocking", true);
+        }
+        else {
+            anim.SetBool("Blocking", false);
         }
             
     }

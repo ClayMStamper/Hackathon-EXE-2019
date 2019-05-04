@@ -40,7 +40,7 @@ public class EnemyMove : MonoBehaviour
     public void MoveTowardsPlayer()
     {
         
-       // transform.LookAt(playerTransform);
+        transform.rotation = Quaternion.LookRotation(playerTransform.position - transform.position);
         distance = Mathf.Abs(Vector3.Distance(transform.position, Player.instance.transform.position));
         if (distance >= attackRange)
         {
@@ -51,7 +51,7 @@ public class EnemyMove : MonoBehaviour
 
         //set x rotation 
         //Debug.Log(distance);
-        transform.localEulerAngles = new Vector3(-90, transform.localEulerAngles.y, transform.localEulerAngles.z);
+        //transform.localEulerAngles = new Vector3(-90, transform.localEulerAngles.y, transform.localEulerAngles.z);
         
     }
 

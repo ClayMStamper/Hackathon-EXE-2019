@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9653f6a6-2990-4b04-9b06-990ddb8f6c69" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Hackathon-EXE-2019/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Hackathon-EXE-2019/.idea/indexLayout.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/VolumetricLines/ExampleScenes/LaserCannon.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/VolumetricLines/ExampleScenes/StaticLines.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Hackathon-EXE-2019/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Hackathon-EXE-2019/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Scripts/EnemySpawner.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Scripts/EnemySpawner.cs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -37,13 +35,13 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/_Scripts/EnemySpawner.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="18" column="29" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
+            <state relative-caret-position="285">
+              <caret line="21" column="14" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
               <folding>
-                <marker date="1556997193408" expanded="false" signature="6:78" ph="..." />
-                <marker date="1556997193408" expanded="true" signature="121:715" ph="{...}" />
-                <marker date="1556997193408" expanded="true" signature="395:713" ph="{...}" />
-                <marker date="1556997193408" expanded="true" signature="471:707" ph="{...}" />
+                <marker date="1556997571433" expanded="false" signature="6:78" ph="..." />
+                <marker date="1556997571433" expanded="true" signature="121:766" ph="{...}" />
+                <marker date="1556997571433" expanded="true" signature="425:764" ph="{...}" />
+                <marker date="1556997571433" expanded="true" signature="478:758" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -121,7 +119,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="240" />
     <option name="y" value="127" />
     <option name="width" value="1440" />
@@ -208,7 +206,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6003000" />
+    <option name="totallyTimeSpent" value="6374000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">

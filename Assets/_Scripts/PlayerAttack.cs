@@ -5,6 +5,9 @@ using UnityEngine;
 public class PlayerAttack : MonoBehaviour {
     private Animator anim;
 
+    public Transform sabre;
+    public Collider col;
+    
     private void Start() {
         anim = GetComponent<Animator>();
     }

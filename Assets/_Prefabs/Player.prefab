@@ -212,7 +212,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   pp: {fileID: 0}
-  healRate: 3
+  healRate: 10
   hitWindow: 0.5
 --- !u!114 &6392103411254440574
 MonoBehaviour:
@@ -226,6 +226,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c1848b6032c4b48b4ba59f335ce5beb1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  sabre: {fileID: 2148187203292781809}
+  col: {fileID: 3155360983953256178}
 --- !u!114 &6392103411254440451
 MonoBehaviour:
   m_ObjectHideFlags: 0

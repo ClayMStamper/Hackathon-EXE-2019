@@ -13,6 +13,7 @@ public class EnemyHealth : MonoBehaviour, ITakeDamage
         health -= damage;
         if (health <= 0)
         {
+            GetComponent<Animator>().Play("Death");
             Instantiate(DestroyVFX, transform.position, Quaternion.identity);
             Destroy(gameObject, 1.5f);
             //put death anim here

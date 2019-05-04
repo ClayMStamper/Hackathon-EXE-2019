@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/Library/Caches/Rider2018.2/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2018.2/resharper-host/local/Transient/ReSharperHost/v182/SolutionCaches/_Exe Hack.-1093236745.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="_Scripts" t="Include">
+          <e p="Enemy.cs" t="Include" />
+          <e p="EnemyHealth.cs" t="Include" />
+          <e p="EnemyMove.cs" t="Include" />
+          <e p="IDealDamage.cs" t="Include" />
+          <e p="ITakeDamage.cs" t="Include" />
+          <e p="LightSaber.cs" t="Include" />
+          <e p="Player.cs" t="Include" />
+          <e p="PlayerHealth.cs" t="Include" />
+          <e p="PlayerMove.cs" t="Include" />
+          <e p="Weapon.cs" t="Include" />
+        </e>
+        <e p="VolumetricLines" t="Include">
+          <e p="ExampleScenes" t="Include">
+            <e p="ExampleScripts" t="Include">
+              <e p="CannonBehavior.cs" t="Include" />
+              <e p="CreateSinShapedLineStrip.cs" t="Include" />
+              <e p="ShotBehavior.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Scripts" t="Include">
+            <e p="Utils" t="Include">
+              <e p="TransformExtensionMethods.cs" t="Include" />
+            </e>
+            <e p="VolumetricLineBehavior.cs" t="Include" />
+            <e p="VolumetricLineSettings.cs" t="Include" />
+            <e p="VolumetricLineStripBehavior.cs" t="Include" />
+            <e p="VolumetricLineVertexData.cs" t="Include" />
+            <e p="VolumetricMultiLineBehavior.cs" t="Include" />
+          </e>
+          <e p="Shaders" t="Include">
+            <e p="_SimpleShader.cginc" t="Include" />
+            <e p="_StripShader.cginc" t="Include" />
+            <e p="Additive.shader" t="Include" />
+            <e p="AlphaBlended.shader" t="Include" />
+            <e p="Fast-Additive.shader" t="Include" />
+            <e p="Fast-AlphaBlended.shader" t="Include" />
+            <e p="Strip-Additive.shader" t="Include" />
+            <e p="Strip-AlphaBlended.shader" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Exe Hack.sln" t="IncludeFlat" />
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>

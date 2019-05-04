@@ -40,7 +40,7 @@ public class EnemyMove : MonoBehaviour
     public void MoveTowardsPlayer()
     {
         
-        transform.LookAt(playerTransform);
+       // transform.LookAt(playerTransform);
         distance = Mathf.Abs(Vector3.Distance(transform.position, Player.instance.transform.position));
         if (distance >= attackRange)
         {

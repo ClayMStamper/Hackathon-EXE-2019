@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="78ad7790-22cd-4f46-a51e-d1aebbcdc921" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Exe Hack/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Exe Hack/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Exe Hack/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Exe Hack/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Design/Materials/sci_fi_spaceship_access_cover_sci_fi_spaceship_access_cover.sbsar.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Design/Materials/sci_fi_spaceship_access_cover_sci_fi_spaceship_access_cover.sbsar.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Design/Models/DC-15s Blaster Rifle_By Jetstorm-477.obj.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Design/Models/DC-15s Blaster Rifle_By Jetstorm-477.obj.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Design/Models/Droid/BattleDroid.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Design/Models/Droid/BattleDroid.fbx.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Design/Models/Droid/Strafe.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Design/Models/Droid/Strafe.fbx.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Prefabs/BattleDroid.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Prefabs/BattleDroid.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Prefabs/Bullet.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Prefabs/Bullet.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Scripts/Enemy.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Scripts/Enemy.cs" afterDir="false" />
-    </list>
+    <list default="true" id="78ad7790-22cd-4f46-a51e-d1aebbcdc921" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,12 +18,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cs" value="764" />
+          <entry key="cs" value="766" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="C#" value="764" />
+          <entry key="C#" value="766" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -68,7 +57,7 @@
         <entry file="file://$PROJECT_DIR$/Assets/_Scripts/Enemy.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="176">
-              <caret line="13" column="40" lean-forward="true" selection-start-line="13" selection-start-column="40" selection-end-line="13" selection-end-column="40" />
+              <caret line="13" column="40" selection-start-line="13" selection-start-column="40" selection-end-line="13" selection-end-column="40" />
               <folding>
                 <marker date="1556996220287" expanded="false" signature="6:78" ph="..." />
                 <marker date="1556996220287" expanded="true" signature="114:340" ph="{...}" />
@@ -124,17 +113,17 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/_Scripts/EnemyMove.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="460">
-              <caret line="40" column="5" lean-forward="true" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
+            <state relative-caret-position="428">
+              <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
               <folding>
-                <marker date="1556995805214" expanded="false" signature="6:100" ph="..." />
-                <marker date="1556995805214" expanded="true" signature="140:1410" ph="{...}" />
-                <marker date="1556995805214" expanded="true" signature="506:571" ph="{...}" />
-                <marker date="1556995805214" expanded="true" signature="629:855" ph="{...}" />
-                <marker date="1556995805214" expanded="true" signature="725:846" ph="{...}" />
-                <marker date="1556995805214" expanded="true" signature="892:1388" ph="{...}" />
-                <marker date="1556995805214" expanded="true" signature="1091:1191" ph="{...}" />
-                <marker date="1556995805214" expanded="true" signature="1210:1258" ph="/* set x rotation ... */" />
+                <marker date="1556997064679" expanded="false" signature="6:100" ph="..." />
+                <marker date="1556997064679" expanded="true" signature="140:1412" ph="{...}" />
+                <marker date="1556997064679" expanded="true" signature="506:571" ph="{...}" />
+                <marker date="1556997064679" expanded="true" signature="629:855" ph="{...}" />
+                <marker date="1556997064679" expanded="true" signature="725:846" ph="{...}" />
+                <marker date="1556997064679" expanded="true" signature="892:1390" ph="{...}" />
+                <marker date="1556997064679" expanded="true" signature="1093:1193" ph="{...}" />
+                <marker date="1556997064679" expanded="true" signature="1212:1260" ph="/* set x rotation ... */" />
               </folding>
             </state>
           </provider>
@@ -232,6 +221,7 @@
         <option value="$PROJECT_DIR$/Assets/_Scripts/PlayerMove.cs" />
         <option value="$PROJECT_DIR$/Assets/_Scripts/LightSaber.cs" />
         <option value="$PROJECT_DIR$/Assets/_Scripts/Enemy.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/EnemyMove.cs" />
       </list>
     </option>
   </component>
@@ -317,12 +307,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1556985106318</updated>
-      <workItem from="1556985110877" duration="3036000" />
+      <workItem from="1556985110877" duration="3240000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3036000" />
+    <option name="totallyTimeSpent" value="3240000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -497,7 +487,7 @@
     <entry file="file://$PROJECT_DIR$/Assets/_Scripts/Enemy.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
-          <caret line="13" column="40" lean-forward="true" selection-start-line="13" selection-start-column="40" selection-end-line="13" selection-end-column="40" />
+          <caret line="13" column="40" selection-start-line="13" selection-start-column="40" selection-end-line="13" selection-end-column="40" />
           <folding>
             <marker date="1556996220287" expanded="false" signature="6:78" ph="..." />
             <marker date="1556996220287" expanded="true" signature="114:340" ph="{...}" />
@@ -508,17 +498,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/_Scripts/EnemyMove.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="40" column="5" lean-forward="true" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
+        <state relative-caret-position="428">
+          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
           <folding>
-            <marker date="1556995805214" expanded="false" signature="6:100" ph="..." />
-            <marker date="1556995805214" expanded="true" signature="140:1410" ph="{...}" />
-            <marker date="1556995805214" expanded="true" signature="506:571" ph="{...}" />
-            <marker date="1556995805214" expanded="true" signature="629:855" ph="{...}" />
-            <marker date="1556995805214" expanded="true" signature="725:846" ph="{...}" />
-            <marker date="1556995805214" expanded="true" signature="892:1388" ph="{...}" />
-            <marker date="1556995805214" expanded="true" signature="1091:1191" ph="{...}" />
-            <marker date="1556995805214" expanded="true" signature="1210:1258" ph="/* set x rotation ... */" />
+            <marker date="1556997064679" expanded="false" signature="6:100" ph="..." />
+            <marker date="1556997064679" expanded="true" signature="140:1412" ph="{...}" />
+            <marker date="1556997064679" expanded="true" signature="506:571" ph="{...}" />
+            <marker date="1556997064679" expanded="true" signature="629:855" ph="{...}" />
+            <marker date="1556997064679" expanded="true" signature="725:846" ph="{...}" />
+            <marker date="1556997064679" expanded="true" signature="892:1390" ph="{...}" />
+            <marker date="1556997064679" expanded="true" signature="1093:1193" ph="{...}" />
+            <marker date="1556997064679" expanded="true" signature="1212:1260" ph="/* set x rotation ... */" />
           </folding>
         </state>
       </provider>
